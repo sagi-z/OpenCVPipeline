@@ -1,4 +1,4 @@
-OpenCVPipeline - simple show case of using OpenCV with tbb
+OpenCVPipeline - simple show case of using OpenCV with TBB
 ==========================================================
 
 [For more details see my blog](https://www.theimpossiblecode.com/blog/faster-opencv-smiles-tbb "the impossible code")
