@@ -24,4 +24,4 @@ cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make
 ```
-[Example execution](https://www.youtube.com/watch?v=WUzR5927Mj4 "se it in work")
+[Example execution](https://www.youtube.com/watch?v=WUzR5927Mj4 "see it in work")
