@@ -10,9 +10,9 @@ This example executes 30% fatser on my PC. See the blog link above for details.
 ## Linux Building
 ### Build dependencies
 Make sure these are installed first:
-* **cmake** - should already be installed since you built OpenCV by yourself.
-* **git** (optional) - you can also download the sources from GitHub.
-* **tbb** - you can also download the sources from GitHub.
+* **cmake** - sudo apt-get install cmake
+* **git** - sudo apt-get install git
+* **tbb** - sudo apt-get install libtbb-dev
 * **opencv 3.1 and above**
 
 ### build
